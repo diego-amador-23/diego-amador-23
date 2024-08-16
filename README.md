@@ -1,10 +1,21 @@
 - 👋 Hi, I’m @diego-amador-23
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I'm currently working on development using React, TypeScript, and Node.js.
+- 👀 Hi, I'm a developer with a focus on React, TypeScript, and Node.js. I'm particularly interested in machine learning, with a keen interest in deep learning techniques for natural language processing. 
+
+**Skills:**
+* React
+* TypeScript
+* Node.js
+* Machine Learning
+* Deep Learning
+* NLP
+
+**Interests:**
+* Building intelligent agents
+* Exploring ethical implications of AI
+* Contributing to open-source AI communities
+
+Feel free to reach out if you're interested in collaborating on a project!
 
 <!---
 diego-amador-23/diego-amador-23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
