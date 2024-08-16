@@ -3,9 +3,7 @@
 - 👀 Hi, I'm a developer with a focus on React, TypeScript, and Node.js. I'm particularly interested in machine learning, with a keen interest in deep learning techniques for natural language processing. 
 
 **Skills:**
-* React
-* TypeScript
-* Node.js
+* Prompt Engineer
 * Machine Learning
 * Deep Learning
 * NLP
